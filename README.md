@@ -6,6 +6,6 @@ The "og" folder contains the original dataset, which is divided into images and 
 
 The test results are as follows.
 
-![2023-06-29-13-33-44.png]
+![image](https://github.com/LBLBLBLT/Spot-detection-by-fastrcnn/blob/main/2023-06-29-13-33-44.png)
 
-![2023-06-29-13-34-35.png]
+![image](https://github.com/LBLBLBLT/Spot-detection-by-fastrcnn/blob/main/2023-06-29-13-34-35.png)
